@@ -1,0 +1,14 @@
+D:\Projects Visual Studio\New folder\Utilizarea comenzilor de control\Utilizarea comenzilor de control\bin\Debug\net8.0\Utilizarea comenzilor de control.exe
+D:\Projects Visual Studio\New folder\Utilizarea comenzilor de control\Utilizarea comenzilor de control\bin\Debug\net8.0\Utilizarea comenzilor de control.deps.json
+D:\Projects Visual Studio\New folder\Utilizarea comenzilor de control\Utilizarea comenzilor de control\bin\Debug\net8.0\Utilizarea comenzilor de control.runtimeconfig.json
+D:\Projects Visual Studio\New folder\Utilizarea comenzilor de control\Utilizarea comenzilor de control\bin\Debug\net8.0\Utilizarea comenzilor de control.dll
+D:\Projects Visual Studio\New folder\Utilizarea comenzilor de control\Utilizarea comenzilor de control\bin\Debug\net8.0\Utilizarea comenzilor de control.pdb
+D:\Projects Visual Studio\New folder\Utilizarea comenzilor de control\Utilizarea comenzilor de control\obj\Debug\net8.0\Utilizarea comenzilor de control.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects Visual Studio\New folder\Utilizarea comenzilor de control\Utilizarea comenzilor de control\obj\Debug\net8.0\Utilizarea comenzilor de control.AssemblyInfoInputs.cache
+D:\Projects Visual Studio\New folder\Utilizarea comenzilor de control\Utilizarea comenzilor de control\obj\Debug\net8.0\Utilizarea comenzilor de control.AssemblyInfo.cs
+D:\Projects Visual Studio\New folder\Utilizarea comenzilor de control\Utilizarea comenzilor de control\obj\Debug\net8.0\Utilizarea comenzilor de control.csproj.CoreCompileInputs.cache
+D:\Projects Visual Studio\New folder\Utilizarea comenzilor de control\Utilizarea comenzilor de control\obj\Debug\net8.0\Utilizarea comenzilor de control.dll
+D:\Projects Visual Studio\New folder\Utilizarea comenzilor de control\Utilizarea comenzilor de control\obj\Debug\net8.0\refint\Utilizarea comenzilor de control.dll
+D:\Projects Visual Studio\New folder\Utilizarea comenzilor de control\Utilizarea comenzilor de control\obj\Debug\net8.0\Utilizarea comenzilor de control.pdb
+D:\Projects Visual Studio\New folder\Utilizarea comenzilor de control\Utilizarea comenzilor de control\obj\Debug\net8.0\Utilizarea comenzilor de control.genruntimeconfig.cache
+D:\Projects Visual Studio\New folder\Utilizarea comenzilor de control\Utilizarea comenzilor de control\obj\Debug\net8.0\ref\Utilizarea comenzilor de control.dll
